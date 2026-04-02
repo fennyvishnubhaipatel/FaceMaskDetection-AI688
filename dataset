@@ -1,0 +1,20 @@
+## Dataset
+
+The dataset used in this project is the **Face Mask Detection Dataset** available on Kaggle.
+
+**Source:** Kaggle  
+**Dataset Link:** https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data?select=data
+
+### Description
+This dataset contains images of people with and without face masks. It is commonly used for training computer vision models for face mask detection tasks.
+
+### Classes
+The dataset contains two main categories:
+- **With Mask**
+- **Without Mask**
+
+### Dataset Usage in this Project
+In this project, the dataset is used to train and evaluate deep learning models for detecting whether a person is wearing a face mask.
+
+- Images are used to train a **Convolutional Neural Network (CNN)** for classification.
+- **YOLOv8** is used for real-time object detection of faces with or without masks.
