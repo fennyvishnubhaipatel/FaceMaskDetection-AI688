@@ -1,0 +1,11 @@
+image_path,label
+dataset/with_mask/img1.jpg,mask
+dataset/with_mask/img2.jpg,mask
+dataset/with_mask/img3.jpg,mask
+dataset/with_mask/img4.jpg,mask
+dataset/with_mask/img5.jpg,mask
+dataset/without_mask/img6.jpg,no_mask
+dataset/without_mask/img7.jpg,no_mask
+dataset/without_mask/img8.jpg,no_mask
+dataset/without_mask/img9.jpg,no_mask
+dataset/without_mask/img10.jpg,no_mask
