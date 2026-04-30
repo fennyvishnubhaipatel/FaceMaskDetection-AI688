@@ -16,5 +16,4 @@ The dataset contains two main categories:
 ### Dataset Usage in this Project
 In this project, the dataset is used to train and evaluate deep learning models for detecting whether a person is wearing a face mask.
 
-- Images are used to train a **Convolutional Neural Network (CNN)** for classification.
-- **YOLOv8** is used for real-time object detection of faces with or without masks.
+
